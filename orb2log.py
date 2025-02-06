@@ -672,7 +672,7 @@ if len(sys.argv) == 3:
         #new_vect=[]
         pos,line=detect_keyword(log_file, "MCSCF OPTIMIZED ORBITALS", 0)
         if pos == -1:
-            pos,line=detect_keyword(log_file, "EIGENVECTORS", 0)
+            pos,line=detect_keyword(log_file, "MOLECULAR ORBITALS", 0)
         print("pos=",pos)
         posfin,line=detect_next_keyword(log_file,"END OF",pos)
         if posfin == -1:
