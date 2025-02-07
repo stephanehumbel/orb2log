@@ -13618,7 +13618,7 @@ Copying input file anthracene_HF.inp to your run's scratch directory...
 
                       1          2          3          4          5 
                       1.0        2.0        3.0        4.0        5.0 
-                     Loc1       Loc2       Loc3       Loc4       Loc5       
+                     Del        Del        Del        Del        Del        
     1  C  1  S    0.065899   0.000000  -0.074807   0.000000   0.000000 
     2  C  1  S    0.001630   0.000000  -0.001942   0.000000   0.000000 
     3  C  1  X    0.000000  -0.000169   0.000000   0.000197   0.000000 
@@ -13852,7 +13852,7 @@ Copying input file anthracene_HF.inp to your run's scratch directory...
 
                       6          7          8          9         10 
                       6.0        7.0        8.0        9.0       10.0 
-                     Loc6       Loc7       Loc8       Loc9       Loc10      
+                     Del        Del        Del        Del        Del        
     1  C  1  S   -0.002804   0.007109   0.000000   0.696132   0.697511 
     2  C  1  S   -0.000142   0.000089   0.000000   0.019605   0.019562 
     3  C  1  X    0.000000   0.000000   0.000055   0.000000   0.000000 
@@ -14086,7 +14086,7 @@ Copying input file anthracene_HF.inp to your run's scratch directory...
 
                      11         12         13         14         15 
                      11.0       12.0       13.0       14.0       15.0 
-                     Loc11      Loc12      Loc13      Loc14      Loc15      
+                     Del        Del        Del        Del        Del        
     1  C  1  S    0.000000   0.069144   0.000000  -0.073750  -0.069313 
     2  C  1  S    0.000000   0.001848   0.000000  -0.002117   0.130376 
     3  C  1  X    0.000000   0.000000  -0.000016   0.000000   0.000000 
@@ -14320,7 +14320,7 @@ Copying input file anthracene_HF.inp to your run's scratch directory...
 
                      16         17         18         19         20 
                      16.0       17.0       18.0       19.0       20.0 
-                     Loc16      Loc17      Loc18      Loc19      Loc20      
+                     Del        Del        Del        Del        Del        
     1  C  1  S    0.000000   0.063144  -0.092142   0.000000   0.000000 
     2  C  1  S    0.000000  -0.122322   0.176355   0.000000   0.000000 
     3  C  1  X    0.046446   0.000000   0.000000  -0.061230   0.094032 
@@ -14554,7 +14554,7 @@ Copying input file anthracene_HF.inp to your run's scratch directory...
 
                      21         22         23         24         25 
                      21.0       22.0       23.0       24.0       25.0 
-                     Loc21      Loc22      Loc23      Loc24      Loc25      
+                     Del        Del        Del        Del        Del        
     1  C  1  S    0.086539  -0.066604   0.000000  -0.064703   0.000000 
     2  C  1  S   -0.169438   0.132534   0.000000   0.128990   0.000000 
     3  C  1  X    0.000000   0.000000  -0.150703   0.000000  -0.056394 
@@ -14788,7 +14788,7 @@ Copying input file anthracene_HF.inp to your run's scratch directory...
 
                      26         27         28         29         30 
                      26.0       27.0       28.0       29.0       30.0 
-                     Loc26      Loc27      Loc28      Loc29      Loc30      
+                     Del        Del        Del        Del        Del        
     1  C  1  S   -0.054478   0.000000  -0.019917   0.000000  -0.027036 
     2  C  1  S    0.109247   0.000000   0.039169   0.000000   0.054232 
     3  C  1  X    0.000000   0.159131   0.000000  -0.176676   0.000000 
@@ -15022,7 +15022,7 @@ Copying input file anthracene_HF.inp to your run's scratch directory...
 
                      31         32         33         34         35 
                      31.0       32.0       33.0       34.0       35.0 
-                     Loc31      Loc32      Loc33      Loc34      Loc35      
+                     Del        Del        Del        Del        Del        
     1  C  1  S   -0.013644   0.000000   0.000000   0.000141   0.000000 
     2  C  1  S    0.026846   0.000000   0.000000  -0.000142   0.000000 
     3  C  1  X    0.000000  -0.077346   0.084328   0.000000   0.214992 
@@ -15256,7 +15256,7 @@ Copying input file anthracene_HF.inp to your run's scratch directory...
 
                      36         37         38         39         40 
                      36.0       37.0       38.0       39.0       40.0 
-                     Loc36      Loc37      Loc38      Loc39      Loc40      
+                     Del        Del        Del        Del        Del        
     1  C  1  S    0.004828   0.014359  -0.027262   0.000000   0.000000 
     2  C  1  S   -0.006671  -0.034062   0.054879   0.000000   0.000000 
     3  C  1  X    0.000000   0.000000   0.000000   0.065274   0.204539 
@@ -15490,7 +15490,7 @@ Copying input file anthracene_HF.inp to your run's scratch directory...
 
                      41         42         43         44         45 
                      41.0       42.0       43.0       44.0       45.0 
-                     Loc41      Loc42      Loc43      Loc44      Loc45      
+                     Loc        Loc        Loc        Loc        Loc        
     1  C  1  S    0.000000   0.000000   0.000000   0.000000   0.000000 
     2  C  1  S    0.000000   0.000000   0.000000   0.000000   0.000000 
     3  C  1  X    0.000000   0.000000   0.000000   0.000000   0.000000 
@@ -15724,7 +15724,7 @@ Copying input file anthracene_HF.inp to your run's scratch directory...
 
                      46         47 
                      46.0       47.0 
-                     Loc46      Loc47      
+                     Loc        Loc        
     1  C  1  S    0.000000   0.000000 
     2  C  1  S    0.000000   0.000000 
     3  C  1  X    0.000000   0.000000 

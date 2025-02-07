@@ -467,7 +467,8 @@ def detect_next_keyword(file_path, keyword, start_line):
 def is_pi(orb):
     num_zeros = orb.count(0)
     ratio = num_zeros / len(orb)
-    return ratio > 0.25
+   # print(ratio, end=' ')
+    return ratio > 0.75
 
 def read_orb(file_name):
     '''
@@ -575,7 +576,7 @@ def write_orbs_as_gamess(orb, entete, filein, fileout, debut, fin):
                 pi_labels.append(pi_label)
             #    print(pi_labels,end=' ')
             for j in range(a_ecrire):
-                file.write(f"{pi_labels[j]}{j+i+1:<8}")       
+                file.write(f"{pi_labels[j]}        ")       
             file.write("\n")           
           
  #           print('a_ecrire',a_ecrire)
